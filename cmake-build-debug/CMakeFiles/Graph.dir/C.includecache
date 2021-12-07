@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/Clion/Graph/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+/cygdrive/e/Clion/Graph/stdio.h
+stdlib.h
+/cygdrive/e/Clion/Graph/stdlib.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+

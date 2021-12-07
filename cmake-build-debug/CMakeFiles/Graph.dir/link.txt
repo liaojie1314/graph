@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/Graph.dir/main.c.o -o Graph.exe -Wl,--out-implib,libGraph.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
